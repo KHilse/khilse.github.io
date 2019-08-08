@@ -2,6 +2,10 @@ body {
 	font-family: sans-serif;
 }
 
+h3 {
+	display: inline;
+}
+
 .photo {
 	width: 300px;
 	height: auto;
